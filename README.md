@@ -54,7 +54,8 @@ Abaixo, segue a estrutura básica de pastas do projeto utilizando o módulo Clie
 --------------------- cliente_contato_form_widget.dart
 ``` -->
 
-![Getting Started](imagens\estrutura_projeto.png)
+<p align="center" border-radius="4px">
+<img src="imagens\estrutura_projeto.png" width=30%">
 
 Para entendermos melhor a estrutura apresentada acima, temos que conhecer um pouco mais de **Arquitetura Limpa(_Clean Architecture_)**.
 [_Ver mais..._](https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a1ac6)
@@ -63,7 +64,8 @@ Para entendermos melhor a estrutura apresentada acima, temos que conhecer um pou
 
 Para começarmos a falar sobre a organização do projeto, podemos falar um pouco dos conceitos das camadas da **_Clean Architecture_**.
 
-![Getting Started](imagens\clean-architecture.png)
+<p align="center" border-radius="4px">
+<img src="imagens\clean-architecture.png" width=50%">
 
 Na estrutura dos nossos projetos, utilizamos as seguintes camadas/pastas:
 
