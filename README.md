@@ -1,6 +1,6 @@
-# Padrões de Desenvolvimento Rech - Dart/Flutter ![dart](https://skills.thijs.gg/icons?i=dart&theme=light)
+# Padrões de Desenvolvimento - Dart/Flutter ![dart](https://skills.thijs.gg/icons?i=dart&theme=light)
 
-Neste documento, abordaremos a estrutura básica de organização das pastas e arquivos, além das principais práticas empregadas no desenvolvimento dos softwares com o framework <a href="https://flutter.dev/" > **_Flutter_**</a> na Rech Informática.
+Neste documento, abordaremos a estrutura básica de organização das pastas e arquivos, além das principais práticas empregadas no desenvolvimento dos softwares com o framework <a href="https://flutter.dev/" > **_Flutter_**</a>.
 
 ## Estrutura do Projeto
 
